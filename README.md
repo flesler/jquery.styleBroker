@@ -1,4 +1,6 @@
-jquery.styleBuffer
+jQuery.styleBroker
 ==================
 
-Buffers set style to be set with requestAnimationFrame and also caches modified styles
+Minimizes both queries and modifications to DOM styles
+
+DISCLAIMER: This is a draft version with certain bugs and not production ready
